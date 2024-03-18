@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Lesedilyt
+- 👀 I’m interested in in exploring the intersections of technology and creativity and building meaningful applications.
+- 🌱 I’m currently learning full-stack development, enhancing my skills in software development to create innovative solutions.
+- 💞️ I’m looking to collaborate on projects that challenge the status quo and push the boundaries of what technology can achieve.
+- 📫 How to reach me : Feel free to drop me a message here on GitHub
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love dancing(If you know, you know)
